@@ -1,0 +1,19 @@
+- links:
+  - name: Contact
+    link: /contact/
+- links:
+  - name: Login
+    link: /
+    new_window: true
+  - name: Sign Up
+    link: /
+    new_window: true
+- links:
+  - name: Reddit
+    link: https://www.reddit.com/r/engram_app/
+    new_window: true
+    social_icon: Reddit
+  - name: Twitter
+    link: https://twitter.com/engram_app/
+    social_icon: Twitter
+    new_window: true
