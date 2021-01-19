@@ -1,3 +1,9 @@
+- name: Pricing
+  link: /#pricing
+  highlight: false
+- name: Support
+  link: /support/
+  highlight: false
 - name: Login
   link: https://engram.xyzdigital.com/login
   new_window: true
