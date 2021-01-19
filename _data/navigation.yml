@@ -1,8 +1,8 @@
 - name: Login
-  link: /
+  link: https://engram.xyzdigital.com/login
   new_window: true
   highlight: false
 - name: Sign Up
-  link: /
+  link: https://engram.xyzdigital.com/signup
   new_window: true
   highlight: true

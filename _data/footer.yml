@@ -1,6 +1,6 @@
 - links:
-  - name: Contact
-    link: /contact/
+  - name: Support
+    link: /support/
 - links:
   - name: Login
     link: /
@@ -9,11 +9,17 @@
     link: /
     new_window: true
 - links:
-  - name: Reddit
-    link: https://www.reddit.com/r/engram_app/
-    new_window: true
-    social_icon: Reddit
   - name: Twitter
     link: https://twitter.com/engram_app/
     social_icon: Twitter
+    new_window: true
+  - name: Instagram
+    link: https://www.instagram.com/engram_app/
+    social_icon: Instagram
+    new_window: true
+  - name: Reddit
+    link: https://www.reddit.com/r/engram_app/
+    new_window: true
+  - name: Github
+    link: https://github.com/adamjberg/engram
     new_window: true
