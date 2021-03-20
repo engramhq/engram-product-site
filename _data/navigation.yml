@@ -4,6 +4,9 @@
 - name: Support
   link: /support/
   highlight: false
+- name: Blog
+  link: /blog/
+  highlight: false
 - name: Login
   link: https://engram.xyzdigital.com/login
   new_window: true
