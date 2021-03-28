@@ -19,7 +19,7 @@ We started with no preconceived notions, but certainly a few heads full of what_
 
 ### Pick a Plum d'Name
 
-The big idea hits home. It is ime to shift from couch horizontal to kneel-chair vertical. Time to make a name for yourself. When developing a new digital device (or other) product from start, it needs an identity. It is not immediately necessary to select a name that will identify that product for its life cycle; code names or project names are perfectly fine temporary vehicles of persuasion. Product design and engineering should not pause a minute to sort out a brand name, unless predetermined or obvious from the start.
+The big idea hits home. It is ime to shift from couch horizontal to kneel-chair vertical. Time to make a name for yourself. When developing a new digital device (or other) product from start, it needs an identity. It is not immediately necessary to select a name that will identify that product for its life cycle; code names or project names are perfectly fine temporary vehicles of persuasion. Product design and engineering should not necessarily pause a minute to sort out a brand name, unless predetermined or obvious from the start.
 
 ### Brainstorm About Brainstorm
 
