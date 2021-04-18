@@ -1,8 +1,11 @@
 - name: Pricing
   link: /#pricing
   highlight: false
-- name: Support
-  link: /support/
+- name: Help
+  link: /help/
+  highlight: false
+- name: FAQs
+  link: /faqs/
   highlight: false
 - name: Blog
   link: /blog/
