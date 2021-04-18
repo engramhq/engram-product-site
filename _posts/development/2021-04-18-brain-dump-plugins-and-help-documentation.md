@@ -4,15 +4,15 @@ title:  "Brain Dump, Plugins & Help Documentation"
 author_staff_member: adam
 ---
 
-Today's updates (and upcoming ones) re-focus attention on the ability to quickly collect thoughts in engram. Clicking the logo now takes you to the Brain Dump page, the ability to quickly share to engram on iOS and Android has been added, and new help documentation has been added.
+Today's updates (and upcoming ones) re-focus attention on the ability to quickly collect thoughts in engram. Clicking the engram logo now takes you to the Brain Dump page, sharing to engram on iOS and Android is much easier, and new help documentation has been added.
 
 ## New Features
 
-I've spent the last few months scouting around some potential future avenues for engram. One important outcome of this exploration has been a transition towards an offline-first system. However, I quickly became bogged down with subtleties of dragging and dropping. After taking a step back, I realized that my use of the app had declined quite a bit - particularly on mobile. 
+I've spent the last few months scouting around some potential future avenues for engram. One important outcome of this exploration has been a transition towards an offline-first system. However, I quickly became bogged down with subtleties of dragging and dropping. After taking a step back, I realized that my use of the app had declined quite a bit - Brain Dump to the rescue.
 
 ### Brain Dump
 
-This may possibly be the only "core" feature of engram. When I have a thought that I want to jot down, I need to have the least amount of friction possible when entering it. 
+When I have a thought that I want to jot down, I need to have the least amount of friction possible when entering it. 
 
 Brain Dump is accessible from anywhere within the app by clicking the engram logo in the top right corner. Once there, you can rapid log any notes, tasks, or events that come to mind. 
 
@@ -20,7 +20,7 @@ The page is intentionally left blank when first entering it. For me, any other i
 
 ### Quick Share
 
-I often found myself wanting to just quickly send a browser URL to engram. Just the existence of a link to something I read allows me to remember most of the thoughts triggered by the article. I also frequently find myself thinking "Where did that page go that had really important information on it?".  Quick share currently works on iOS and Android with a Chrome extension on the way as well (currently pending approval).
+I often found myself wanting to just quickly send a browser URL to engram. Just the existence of a link to something I read allows me to remember most of the thoughts triggered by the article. Quick share currently works on iOS and Android with a Chrome extension on the way as well (currently pending approval).
 
 #### Android Native Sharing
 
@@ -28,7 +28,7 @@ Google has been at the forefront of pushing new Progressive Web App standards. A
 
 #### iOS Send to engram Shortcut
 
-I hope to avoid the Apple App store for as long as possible...So while they don't currently support the Web Share Target API yet, I have managed a workaround that works equally well. The solution involves installing a custom Shortcut for the iOS Shortcuts app that can then be added to the iOS Share Sheet.  See instrutions [here](/help/getting-started/how-to-setup-send-to-engram/#iOS) for how to configure.
+I hope to avoid the Apple App store for as long as possible...So, while they don't currently support the Web Share Target API yet, I have managed a workaround that works equally well. The solution involves installing a custom Shortcut for the iOS Shortcuts app that can then be added to the iOS Share Sheet.  See instructions [here](/help/getting-started/how-to-setup-send-to-engram/#iOS) for how to configure.
 
 ### Plugins
 
