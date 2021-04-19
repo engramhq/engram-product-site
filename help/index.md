@@ -1,7 +1,5 @@
 ---
 title: Help
-heading: engram Help
-description: 
 ---
 
 ### About the App
