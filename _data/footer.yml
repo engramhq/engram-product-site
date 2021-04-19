@@ -1,14 +1,11 @@
 - links:
-  - name: Pricing
-    link: /#pricing
-  - name: Support
-    link: /support/
-- links:
-  - name: Login
-    link: /
+  - name: Github
+    link: https://github.com/adamjberg/engram
     new_window: true
-  - name: Sign Up
-    link: /
+    social_icon: Github
+  - name: Reddit
+    link: https://www.reddit.com/r/engram_app/
+    social_icon: Reddit
     new_window: true
 - links:
   - name: Twitter
@@ -19,9 +16,4 @@
     link: https://www.instagram.com/engram_app/
     social_icon: Instagram
     new_window: true
-  - name: Reddit
-    link: https://www.reddit.com/r/engram_app/
-    new_window: true
-  - name: Github
-    link: https://github.com/adamjberg/engram
-    new_window: true
+  
