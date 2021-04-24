@@ -4,13 +4,10 @@
 - name: Help
   link: /help/
   highlight: false
-- name: FAQs
-  link: /faqs/
-  highlight: false
 - name: Blog
   link: /blog/
   highlight: false
 - name: Try engram
-  link: https://engram.xyzdigital.com
+  link: https://engram.xyzdigital.com/signup
   new_window: true
   highlight: true
