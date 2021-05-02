@@ -2,9 +2,12 @@
 layout: post
 title:  "Feature: Zapier Integration"
 author_staff_member: adam
+image: /images/zapier-integration.png
 ---
 
 engram can now be easily connected to over 3000 apps through an integration with Zapier. This integration helps you quickly get information into engram (e.g. [RSS Feed](https://zapier.com/apps/engram/integrations/rss)) or out of engram (e.g. [Google Calendar Quick Add Event](https://zapier.com/apps/engram/integrations/google-calendar))
+
+![](/images/zapier-integration.gif)
 
 ## What is Zapier?
 
