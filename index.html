@@ -1,13 +1,130 @@
 ---
 title: engram
+pricing_table: 
+  - name: Personal
+    color: "#7886ca"
+    features:
+      - text: Free for personal use
+        highlight: true
+      - text: No account or sign up required
+      - text: Offline data storage
+      - text: Enhance functionality with plugins
+    call_to_action:
+      link: https://engram.xyzdigital.com
+      text: Try engram
+  - name: Sync
+    color: "#5163bb"
+    features:
+      - text: <strike>$1 / mo</strike> - free for limited time
+        highlight: true
+      - text: Cross device sync
+        highlight: false
+      - text: End-to-end Encrpytion
+        highlight: false
+      - text: Support Development
+        highlight: false
+    call_to_action:
+      link: https://engram.xyzdigital.com/signup
+      text: Sign up
+  - name: Self Hosted
+    color: "#3f51b5"
+    features:
+      - text: Free (excl. server costs)
+        highlight: true
+      - text: Fully customizable
+        highlight: false
+      - text: Own your data
+        highlight: false
+      - text: Scale performance to your needs
+        highlight: false
+    call_to_action:
+      link: https://github.com/adamjberg/engram
+      text: Fork on Github
 ---
 <section class="hero">
 	<div class="text-container">
-		<h1></strong>Open your mind with an open source note taking tool</strong></h1>
-
-		<div class="cta button alt"><a href="https://mailchi.mp/f3d84b89e0d3/engram-beta-waitlist" target="_blank">Join Beta</a></div>
+		<h1 class="editable">Open Source Life Management System</strong></h1>
+		<p class="subtext editable">Turn thoughts into actions</p>
+		<div class="cta button alt"><a href="https://engram.xyzdigital.com/signup">Get Started Free</a></div>
 		<div>
 			<img src="{{ site.baseurl }}/images/engram-daily.png" alt="Screenshot" class="screenshot editable" />
 		</div>
 	</div>
 </section>
+
+<div class="content">
+	<section>
+		<div class="container">
+			<div class="text editable">
+				<h2>Think. Plan. Execute.</h2>
+				<p>engram is designed to help you schedule what is important for today, while not losing track of what you're planning for the future.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/agenda.png" alt="Screenshot" class="screenshot editable" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container">
+			<div class="text editable">
+				<h2>Organize</h2>
+				<p>Keep your work life separate from your personal life with workspaces.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/workspaces.png" alt="Screenshot" class="screenshot editable" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Available Anywhere</h2>
+				<p>Quickly capture ideas on the go with your phone and have them automatically sync to your desktop.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/mobile.jpg" height="500px" width="auto" style="display: block; margin: 0 auto;" alt="Screenshot" />
+			</div>
+		</div>
+	</section>
+
+	<!-- <section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<div class="square-image"><img src="https://source.unsplash.com/6anudmpILw4/600x400" alt="Jim James" class="editable"></div>
+				<blockquote>
+					<p class="editable">Hydra has shaped the business we have today. We have a repeatable sales process and a strategy to scale our team. I recommend Hydra to any business looking to improve their sales.</p>
+					<p class="editable author">Jim James - CEO of Global Corp.</p>
+				</blockquote>
+			</div>
+		</div>
+	</section> -->
+
+	<section id="pricing">
+		<div class="container">
+      <h1>Pricing</h1>
+			<div class="plans">
+				{% for plan in page.pricing_table %}
+					<ul class="plan">
+						<li style="background: {{ plan.color }}">
+							<h3>{{ plan.name }}</h3>
+						</li>
+						{% for feature in plan.features %}
+							<li {% if feature.highlight %} class="highlighted"{% endif %}>{{ feature.text }}</li>
+						{% endfor %}
+			
+						{% if plan.call_to_action %}
+							<li class="pricing-cta"><div class="button"><a style="background: {{ plan.color }}" href="{{ plan.call_to_action.link }}">{{ plan.call_to_action.text }} &rarr;</a></div></li>
+						{% endif %}
+					</ul>
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+
+	<section class="bottom-cta">
+		<!-- <h2 class="editable"><strong>Improve</strong> your sales process today</h2> -->
+		<div class="button alt"><a href="https://engram.xyzdigital.com/signup">Get Started Free</a></div>
+	</section>
+</div>
