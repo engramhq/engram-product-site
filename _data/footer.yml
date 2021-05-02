@@ -1,11 +1,6 @@
 - links:
-  - name: Pricing
-    link: /#pricing
-  - name: Support
-    link: /support/
-- links:
-  - name: Login
-    link: /
+  - name: Github
+    link: https://github.com/adamjberg/engram
     new_window: true
     social_icon: Github
 - links:
@@ -16,9 +11,6 @@
   - name: Reddit
     link: https://www.reddit.com/r/engram_app/
     social_icon: Reddit
-  - name: Sign Up
-    link: /
-    new_window: true
 - links:
   - name: Indie Hackers
     link: https://www.indiehackers.com/product/engram
@@ -26,10 +18,4 @@
   - name: Zapier
     link: https://zapier.com/apps/engram/integrations
     social_icon: Zapier
-    new_window: true
-  - name: Reddit
-    link: https://www.reddit.com/r/engram_app/
-    new_window: true
-  - name: Github
-    link: https://github.com/adamjberg/engram
     new_window: true
