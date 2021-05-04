@@ -4,6 +4,9 @@
 - name: Help
   link: /help/
   highlight: false
+- name: Contact
+  link: /contact/
+  highlight: false
 - name: Blog
   link: /blog/
   highlight: false
