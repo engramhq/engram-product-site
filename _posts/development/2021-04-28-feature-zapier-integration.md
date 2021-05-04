@@ -13,6 +13,8 @@ engram can now be easily connected to over 3000 apps through an integration with
 
 Zapier is a no-code workflow automation tool that makes it easy to trigger an action in one app and have it fire an action in another.
 
+<script src="https://zapier.com/apps/embed/widget.js?services=engram"></script>
+
 ## engram Triggers
 
 A "trigger" is an event that occurs within engram that can be used to start a predefined Zap in Zapier.
