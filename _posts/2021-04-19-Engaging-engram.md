@@ -10,7 +10,8 @@ author_staff_member: randy
  
 
 Welcome to engram! As an invitation-only beta user of engram, you are part of a small and exclusive group of digital explorers that will help guide the future of our product. We thank you in advance for your participation, and hope you enjoy using the program in the process.
- 
+
+![Meant to do that!]({{"/images\engram-engagemeant-1200.png" | relative_url}})
 
 ## What is engram?
 
@@ -142,7 +143,7 @@ After reading through this diatribe, if you are still interested in giving engra
 
 We would like interactive user partners to make the most interactive product for the next users. Your comments and suggestions will certainly guide the next rounds of feature planning and execution of features and functions.
 
-You have chosen a mission that can really help but can't really hurt. This message will never self-destruct.
+You have chosen a mission that can really help but can't really hurt. This message will never self-destruct in 5 seconds.
 
 Thank you,
-the engram team
+*the engram team*
