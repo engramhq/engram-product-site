@@ -51,8 +51,8 @@ We used to call computer software "programs" - then "application" was the thing.
 
 A thought or idea can come to mind at any time, and a barrage of information comes in from all sides at nearly all times – enough to blot out the sun. Stuff comes into your orbit faster than you can figure out which planet to put it on. While there are countless note-taking, task-management and time organizing programs available for end use, very few function well as ready quick-capture tools. engram is a to-the-point, fast front-end funnel for day-to-day data.
 
-![Information Overlord]({{"/images\engram text shockface 1200.png" | relative_url}})
-
+![Information Overlord]({{"/images/engram text shockface 1200.png" | relative_url}})
+<figcaption>engram quickly captures inputs</figcaption>
 
 ## Share
 
