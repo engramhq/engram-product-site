@@ -52,7 +52,7 @@ In a sense, the app we were building is refolding data to aid in memory recall �
 ## What is the biological engram process?
 
 
-![engram Dashboard]({{"/images\NeuronsFiringQuote-1200.png" | relative_url}})
+![Neurons to the Stars]({{"/images/NeuronsFiringQuote-1200.png" | relative_url}})
 
 
 Studies find that neurons activate as we form a memory and reactivate as we remember it, strengthening the connections. If a memory is jogged or primed, it becomes ingrained – hard-wired into the back end of the mind after multiple firings. That makes sense – why use precious energy and resources if not necessary? 
@@ -83,7 +83,7 @@ In our case Stage One product development focused on acquiring user data and rel
 ## How to Model Information Tools on the Biological Engram Process?
 
 
-![engram Dashboard]({{"/images\Trace-Place-Retrace-1200.png" | relative_url}})
+![engram Trace-Place Replace]({{"/images/Trace-Place-Retrace-1200.png" | relative_url}})
 
 *"Memory formation is not instantaneous … the act of remembering is crucial to locking a memory into the brain."* [*Quanta article](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102)
 
@@ -97,7 +97,7 @@ Thoughts come on rapid fire whether you are prepared or not. Pen and paper are p
 Get the thought out in its immediacy – decide what to do a little or a lot later. Worry about how to turn those thoughts and inputs into action later. Basic ideas posted in the form of notes can turn into tasks and events to set for yourself and others. These are easy but effective steps to filling your day with activities that matter at the right time.
 
 
-## Think Twice
+## Think Twice, Measure More
 
 
 Rather than try to create the be-all-to-end-all program, a personal brainstorm tool that front-ends everything else out there seems to be very necessary in this world of segmented and siloed online marketplaces. The mental recall process can be directed digitally in a wide variety of manners – the key point is going to be in facilitating that second step of the productive process.

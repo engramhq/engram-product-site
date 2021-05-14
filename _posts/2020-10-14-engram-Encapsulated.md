@@ -12,7 +12,9 @@ More than a century ago, the German zoologist Richard Semon coined the term “e
 
 Given ever new micro-technology, recent research has borne out Semon's speculation of actual changes in the DNA and RNA structure of the brain tissue upon a recollection.
 
+
 ## What Does the Word Engram Mean?
+
 
 There is now a whole new lexicon spawned from the once fabled engram process: 
 
@@ -38,7 +40,8 @@ Semon picked a very simple and science-worthy descriptive word for his trace the
 
 One word: two syllables:
 
-![engram rooted in reality]({{"/images\engram Framed 7.png" | relative_url}})
+![engram rooted in reality]({{"/images/engram Framed 7.png" | relative_url}})
+
 
 ## en =
 
@@ -67,7 +70,7 @@ Breaking down the first syllable further, the letter n is used exte-n-sively i-n
 ## N
 
 
-![N is not the loneliest letter...]({{"/images\engram Framed 7.png" | relative_url}})
+![N is not the loneliest letter...]({{"/images/n Framed 9.png" | relative_url}})
 
 The symbol n is a pretty important variable in:
 
@@ -84,7 +87,7 @@ _*Physics:*_ neutron, newtons (how things are put together)
 
 ## N!
 
-![N! is all positive]({{"/images\n! Framed 21.png" | relative_url}})
+![N! is all positive]({{"/images/n! Framed 21.png" | relative_url}})
 
 Also in mathematics, the factorial of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n:
 
@@ -101,7 +104,7 @@ The most basic use counts the possible distinct sequences – the permutations �
 
 ## The En Factor
 
-![en connects]({{"/images\en Framed 16.png" | relative_url}})
+![en connects]({{"/images/en Framed 16.png" | relative_url}})
 
 However you slice the noun engram, there are a lot of interesting connections to alpha-numeric representations of important things to remember. Plenty of punditry, wit and wordplay shall ensue in our blogs and marketing materials.
 
