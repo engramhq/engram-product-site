@@ -8,9 +8,10 @@ author_staff_member: randy
 
 --- 
 
- Why is the word engram a perfect name for our product?
+ Why is the word engram a perfect name for our brain-tapping product? The real word describes a real process that occurs every instant in the brain. Engrams are always active in waking hours, and gain strentgh and connection with each use. That sounds like a good physical model to build a digital smartypants app upon. Let the process unwind from here:
 
-## What is the biological engram process?
+
+## The Biological Engram Process
 
 
 ![Neurons to the Stars]({{"/images/NeuronsFiringQuote-1200.png" | relative_url}})
@@ -46,10 +47,11 @@ In our case Stage One product development focused on acquiring user data and rel
 
 ![engram Trace-Place Replace]({{"/images/Trace-Place-Retrace-1200.png" | relative_url}})
 
-*"Memory formation is not instantaneous … the act of remembering is crucial to locking a memory into the brain."* [*Quanta article](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102)
+
+__*Memory formation is not instantaneous … the act of remembering is crucial to locking a memory into the brain.*__ [*Quanta article](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102)
 
 
-In a sentence, that captures much of the mindset that Project Brainstorm was going to be about. You can have a thousand thoughts a day, but most get washed away with the next one. If you don't take down that thought somewhere - somehow, chances are it will not be remembered as well later on.
+In a sentence, this captures much of the mindset that Project Brainstorm was going to be about. You can have a thousand thoughts a day, but most get washed away with the next one. If you don't take down that thought somewhere - somehow, chances are it will not be remembered as well later on.
 
 There is a fair comparable to a thought-recording digital product that produces a physical trace with reinforced data – a silicon-embedded footprint to return to for further orientation and direction rather than organic. In either case, new memories are "use it or lose it" moments in time. We all get to choose what is most important to us, and our life literally follows those choices.
 
@@ -64,7 +66,7 @@ Get the thought out in its immediacy – decide what to do a little or a lot lat
 Rather than try to create the be-all-to-end-all program, a personal brainstorm tool that front-ends everything else out there seems to be very necessary in this world of segmented and siloed online marketplaces. The mental recall process can be directed digitally in a wide variety of manners – the key point is going to be in facilitating that second step of the productive process after the primary input.
 
 
-__*"Understanding at the molecular level how the brain cements some memories and loses others could create opportunities to influence aging, learning and other essential processes."*__ [*Quanta article](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102)
+__*Understanding at the molecular level how the brain cements some memories and loses others could create opportunities to influence aging, learning and other essential processes.*__ [*Quanta article](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102)
 
 
 Similarly, an easy to use life-minder application could be advanced and used to deliver influential content, such as education/training courses, health and wellness, financial fitness and limitless plug-ins given the supported open-source community.

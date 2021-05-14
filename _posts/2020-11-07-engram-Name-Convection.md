@@ -9,7 +9,7 @@ author_staff_member: randy
 --- 
 
  
-How do you pick a worthy buzzword for a product that doesn't quite exist yet? Without a company and/or product/service name you aren't shovel-ready for marketing; you can't fully proceed effectively with logo design, marketing materials, promotions or external communication. Sure, progress can be made on other fronts, but we need an identity pronto.
+How do you pick a worthy buzzword for a product that doesn't quite exist yet? Without a company and/or product/service name you aren't shovel-ready for marketing; you can't fully proceed effectively with logo design, marketing materials, promotions or external communication. Sure, progress can be made on other fronts, but we wished for an idealized identity in an instant.
 
 Your [Name] says everything about you – sometimes by design but mostly by reputation. When you don't have a reputation in a new field, by design takes precedence. Creating a unique and memorable name and logo was going to be an important feature to embed into Project Brainstorm.
 
@@ -18,6 +18,7 @@ Your [Name] says everything about you – sometimes by design but mostly by repu
 
 ![Dangerous Idea Curve Ahead!]({{"/images/DangerousCurveSign-1200.png" | relative_url}})
 <figcaption>Watch for the Signs</figcaption>
+
 
 In the mindsearch for name to front a brainstormed idea, a pile of brainstormed (and a few hairbrained) names crossed the groupthink threshold:
 
@@ -44,7 +45,7 @@ I try to read scientific publications on brain function research whenever I see 
 
 The word engram jumped out at me while reading from the page of a Quanta Magazine article explaining a physical process for recalling memories:
 
-*"More than a century ago, the zoologist Richard Semon coined the term “engram” to designate the physical trace a memory must leave in the brain, like a footprint."* [Quanta article](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102)
+__*More than a century ago, the zoologist Richard Semon coined the term “engram” to designate the physical trace a memory must leave in the brain, like a footprint.*__ [Quanta article](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102)
 
 
 ![Information Overlord]({{"/images/engram text shockface 1200.png" | relative_url}})
