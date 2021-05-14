@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  engram- terms and renditions
+title:  engram - terms and renditions
 
 author_staff_member: randy
 
@@ -10,10 +10,7 @@ author_staff_member: randy
  
 
 
-## What is engram about?
-
-*engram* is a subscription web browser-based open source software application designed as a quick thought and information capture-share tool to help people remember important things in their lives. 
-engram describes a process in which a memory makes a physical change in the brain upon recall. The *engram* app also aims to help memory recall by making physical changes to bits of software code.
+*engram* is a subscription web browser-based open source software application designed as a quick thought and information capture-share tool to help people remember important things in their lives. Before diving in, have a review of our rendition of important terms to keep in mind with engram:
 
 
 ## Subscription
