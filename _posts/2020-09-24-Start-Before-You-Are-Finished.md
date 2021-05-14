@@ -17,6 +17,7 @@ Figuring out what has already been done is easy. A quick search of the interweb 
 
 ![Infinite Wisdom]({{"/images/StartB4Finish-1200.png" | relative_url}})
 
+
 Our own long-stewing project represents as complete a fresh start as you can get ((save for [and saved by] open source code)). With a simple goal of designing a very simple but fast thought/idea/note-making tool, plotting (and plodding) activity began; several brains storming, but only two hands coding.
 
 We started with no preconceived notions, but certainly a few heads full of what_could_I_really_use? ideas for features and functions that might be useful in real use. The Wishlist grows exponentially – sometimes sideways and unrealistically, given we just said we were doing a basic project. What is going to stick? What is going to be the killer idea that makes this product attractive to the massesWhen ?
