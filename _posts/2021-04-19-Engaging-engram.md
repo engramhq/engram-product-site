@@ -11,7 +11,9 @@ author_staff_member: randy
 
 Welcome to engram! As an invitation-only beta user of engram, you are part of a small and exclusive group of digital explorers that will help guide the future of our product. We thank you in advance for your participation, and hope you enjoy using the program in the process.
 
-![Meant to do that!]({{"/images/engram-engagemeant-1200.png" | relative_url}})
+
+![engram engagemeant!]({{"/images/engram-engagemeant-1200.png" | relative_url}})
+<figcaption>engagement with engram means something</figcaption>
 
 
 ## What is engram?

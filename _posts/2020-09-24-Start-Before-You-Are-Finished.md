@@ -15,7 +15,7 @@ Figuring out what has already been done is easy. A quick search of the interweb 
  
 ### Start With A Simple Goal
 
-![Infinite Wisdom]({{"/images\StartB4Finish-1200.png" | relative_url}})
+![Infinite Wisdom]({{"/images/StartB4Finish-1200.png" | relative_url}})
 
 Our own long-stewing project represents as complete a fresh start as you can get ((save for [and saved by] open source code)). With a simple goal of designing a very simple but fast thought/idea/note-making tool, plotting (and plodding) activity began; several brains storming, but only two hands coding.
 

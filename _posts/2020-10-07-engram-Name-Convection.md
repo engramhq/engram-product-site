@@ -16,8 +16,10 @@ Your [Name] says everything about you – sometimes by design but mostly by repu
 
 ## No Calm Before the Brainstorm
 
+![Dangerous Idea Curve Ahead!]({{"/images/DangerousCurveSign-1200.png" | relative_url}})
+<figcaption>Watch for the Signs</figcaption>
 
-A pile of brainstormed (and a few hairbrained) names crossed the group threshold:
+In the mindsearch for name to front a brainstormed idea, a pile of brainstormed (and a few hairbrained) names crossed the groupthink threshold:
 
 * ###    Coyou
 * ###    Co-pilot
