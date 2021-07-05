@@ -12,7 +12,9 @@ More than a century ago, the German zoologist Richard Semon coined the term “e
 
 Given ever new micro-technology, recent research has borne out Semon's speculation of actual changes in the DNA and RNA structure of the brain tissue upon a recollection.
 
+
 ## What Does the Word Engram Mean?
+
 
 There is now a whole new lexicon spawned from the once fabled engram process: 
 
@@ -38,55 +40,59 @@ Semon picked a very simple and science-worthy descriptive word for his trace the
 
 One word: two syllables:
 
-![engram rooted in reality]({{"/images\engram Framed 7.png" | relative_url}})
+![engram rooted in reality]({{"/images/engram Framed 7.png" | relative_url}})
+
 
 ## en =
 
 __Greek - en__
-     a prefix forming verbs; “to cause to be in” the place, condition, or state named by the stem
-     put into or onto, in, within, to confine in or place on, to restrict
-     cause to be, provide with, so as to cover
-     made of, consisting of, thoroughly, on all sides, completely
-     a unit of width in typography
+
+a prefix forming verbs; “to cause to be in” the place, condition, or state named by the stem
+put into or onto, in, within, to confine in or place on, to restrict
+cause to be, provide with, so as to cover
+made of, consisting of, thoroughly, on all sides, completely
+a unit of width in typography
 
 ## gram =
 
 __Greek - grámma__
-     drawing, writing, record, letters
-     matter weight under standard gravity
 
-[Sources - Dictionary.com, ](https://www.dictionary.com)[Mirriam-Webster.](https://www.merriam-webster)
+drawing, writing, record, letters
+matter weight under standard gravity
+
+Sources [Dictionary.com, ](https://www.dictionary.com)[Mirriam-Webster.](https://www.merriam-webster)
 
 
 ## Enlightening To the Nth Degree
 
 
-Breaking down the first syllable further, the letter n is used exte-n-sively i-n scie-n-tific discipli-n-es:
+Breaking down the first syllable further, the letter *n* is used exte-n-sively i-n scie-n-tific discipli-n-es:
 
 
 ## N
 
+![N is not the loneliest letter...]({{"/images/n Framed 9.png" | relative_url}})
 
-![N is not the loneliest letter...]({{"/images\engram Framed 7.png" | relative_url}})
 
 The symbol n is a pretty important variable in:
 
-_*Physics:*_ neutron, newtons (how things are put together)
+__*Physics:*__ neutron, newtons (how things are put together)
 
-*Optics:* index of refraction (how we see things)
+__*Optics:*__ index of refraction (how we see things)
 
-*Chemistry:* nitrogen (key growth agent for life)
+__*Chemistry:*__ nitrogen (key growth agent for life)
 
-*Geography:* north, northern (where things are pointing)
+__*Geography:*__ north, northern (where things are pointing)
 
-*Mathematics:* an indefinite, constant whole number, natural numbers, all positive integers (1,2,3....infinity)
+__*Mathematics:*__ an indefinite, constant whole number, natural numbers, all positive integers (1,2,3....infinity)
 
 
 ## N!
 
-![N! is all positive]({{"/images\n! Framed 21.png" | relative_url}})
+![N! is all positive]({{"/images/n! Framed 21.png" | relative_url}})
 
-Also in mathematics, the factorial of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n:
+
+Also in mathematics, the factorial of a positive integer *n*, denoted by *n!*, is the product of all positive integers less than or equal to *n*:
 
      n! = n * (n-1) * (n-2) * (n-3) * …
 
@@ -96,12 +102,12 @@ For example:
 
 The most basic use counts the possible distinct sequences – the permutations – of n distinct objects.
 
-[source - https://en.wikipedia.org/wiki/Factorial]
+Source - [https://en.wikipedia.org/wiki/Factorial]
 
 
 ## The En Factor
 
-![en connects]({{"/images\en Framed 16.png" | relative_url}})
+![en connects]({{"/images/en Framed 16.png" | relative_url}})
 
 However you slice the noun engram, there are a lot of interesting connections to alpha-numeric representations of important things to remember. Plenty of punditry, wit and wordplay shall ensue in our blogs and marketing materials.
 
@@ -115,4 +121,4 @@ Please note that the application is currently enshrouded in beta wrap, but encry
 ## The New Engram Definition:
 
 
-*engram is a brand new open source knowledge management application designed to help individuals convert their ideas into actions, and to help educate those interested in software development.*
+__*engram is a brand new open source knowledge management application designed to help individuals convert their ideas into actions, and to help educate those interested in software development.*__

@@ -4,7 +4,7 @@ heading: How to Setup Send to engram
 description: 
 ---
 
-Instructions to quickly send to engram on [Android](#android), [iOS](#iOS), and [Browsers](#browsers).
+Instructions to quickly send to engram on [Android](#android), [iOS](#ios), and [Chrome/Edge](#google-chrome--microsoft-edge).
 
 ## Android
 
@@ -50,9 +50,9 @@ For example in Chrome:
   </a>
 </div>
 
-## Browsers
+## Google Chrome / Microsoft Edge
 
-Chrome & Edge extensions coming soon!
+Install [Send to engram from chrome web store](https://chrome.google.com/webstore/detail/send-to-engram/bloiiipbjdglglljlbnbgcfhhfbfjmjp?hl=en) to allow saving links or text selection directly to engram.
 
 ## iOS
 
