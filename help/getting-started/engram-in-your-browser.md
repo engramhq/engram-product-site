@@ -4,8 +4,6 @@ heading: engram in the Browser
 description: 
 ---
 
-The quickest way to try out engram is directly in your browser.  Simply visit [engram.xyzdigital.com](https://engram.xyzdigital.com/), and you're launched directly to the application.
-
 ### Local Storage
 
 By default, engram is set up to store data locally on your system right out of the box.  This means there is no account necessary and your data remains on your device.  Local storage is provided via [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) which has some quirks depending on the device and browser you are using.  
