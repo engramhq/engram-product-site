@@ -3,19 +3,3 @@
     link: https://github.com/adamjberg/engram
     new_window: true
     social_icon: Github
-- links:
-  - name: Twitter
-    link: https://twitter.com/engram_app/
-    social_icon: Twitter
-    new_window: true
-  - name: Reddit
-    link: https://www.reddit.com/r/engram_app/
-    social_icon: Reddit
-- links:
-  - name: Indie Hackers
-    link: https://www.indiehackers.com/product/engram
-    new_window: true
-  - name: Zapier
-    link: https://zapier.com/apps/engram/integrations
-    social_icon: Zapier
-    new_window: true

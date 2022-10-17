@@ -7,11 +7,6 @@
 - name: Contact
   link: /contact/
   highlight: false
-- name: Login
-  link: https://engram.xyzdigital.com/login
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: https://engram.xyzdigital.com/signup
-  new_window: true
+- name: Github
+  link: https://github.com/engramhq
   highlight: true
