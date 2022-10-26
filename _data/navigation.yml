@@ -13,6 +13,3 @@
 - name: Log in
   link: https://engram.xyzdigital.com/login
   highlight: false
-- name: Sign up
-  link: https://engram.xyzdigital.com/signup
-  highlight: true
