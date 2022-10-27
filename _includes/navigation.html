@@ -6,7 +6,10 @@
 				"Content-Type": "application/json"
 			},
 			body: JSON.stringify({
-				type: "home_sign_up"
+				type: "home_sign_up",
+				data: {
+					btn_text: "Sign up"
+				}
 			})
 		}).then(() => {
 			window.location = url;

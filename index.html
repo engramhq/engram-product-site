@@ -2,11 +2,32 @@
 title: engram
 ---
 
+<script>
+	function handleCreateAccountClicked(url) {
+		fetch("https://api.engramhq.xyz/analytics-events", {
+			method: "POST",
+			headers: {
+				"Content-Type": "application/json"
+			},
+			body: JSON.stringify({
+				type: "home_sign_up",
+        data: {
+          btn_text: "Create Free Account"
+        }
+			})
+		}).then(() => {
+			window.location = url;
+		})
+
+		return false;
+	}
+</script>
+
 <section class="hero">
   <div class="text-container">
     <h1 class="editable">Open Source Productivity and Collaboration Tools</strong></h1>
     <div class="button alt" style="padding: 24px 0;">
-      <a href="https://engram.xyzdigital.com/signup">
+      <a onclick="return handleCreateAccountClicked('https://engram.xyzdigital.com/signup');" href="https://engram.xyzdigital.com/signup">
         Create Free Account
       </a>
     </div>
