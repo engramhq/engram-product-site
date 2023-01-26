@@ -1,104 +1,83 @@
----
-title: engram
----
+<html lang="en">
 
-<section class="hero">
-  <div class="text-container">
-    <h1 class="editable">Open Source Productivity and Collaboration Tools</strong></h1>
-    <div class="button alt" style="padding: 24px 0;">
-      <a href="https://engram.xyzdigital.com/signup">
-        Create Free Account
-      </a>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>engram | Develop. Deploy. Disperse</title>
+  <link href="assets/styles.css" rel="stylesheet" />
+  <link href="assets/prism.css" rel="stylesheet" />
+  <script src="assets/index.js" defer></script>
+</head>
+
+<body>
+  <script src="assets/prism.js"></script>
+  <div class="container">
+    <h1>Static Deployments</h1>
+
+    <div id="root"></div>
+
+    <div id="static">
+
+      <h2>Develop</h2>
+      <pre><code class="language-markup">&lt;!-- index.html -->
+&lt;html lang="en">
+  &lt;head>
+    &lt;meta charset="UTF-8">
+    &lt;title>Hello World&lt;/title>
+  &lt;/head>
+  &lt;body>
+    &lt;h1>Hello World&lt;/h1>
+  &lt;/body>
+&lt;/html>
+</code></pre>
+
+      <h2>Deploy</h2>
+
+      <pre><code class="language-bash">$ eg deploy
+$ Deployed in 124ms</code></pre>
+
+      <h2>Preview</h2>
+
+      <img src="/assets/img/hello-static.png" height="200px" />
+
     </div>
-      <div style="text-align: center;">
-        <style>
-          .embed-container {
-            position: relative;
-            padding-bottom: 56.25%;
-            height: 0;
-            overflow: hidden;
-            max-width: 100%;
-          }
-  
-          .embed-container iframe,
-          .embed-container object,
-          .embed-container embed {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          }
-        </style>
-        <div class='embed-container'><iframe src='https://www.youtube.com/embed/5gCFA9vbKAM' frameborder='0'
-            allowfullscreen></iframe></div>
-      </div>
+
+    <div id="docker">
+
+      <h1>Docker Deployments</h1>
+
+      <pre><code class="language-docker"># Dockerfile
+FROM node:alpine
+
+WORKDIR /app
+
+COPY . .
+
+CMD node index.mjs</code></pre>
+
+      <pre><code class="language-js">// index.mjs
+import http from "http";
+
+http
+  .createServer(function (req, res) {
+    res.writeHead(200, { "Content-Type": "text/plain" });
+    res.write("Hello World!");
+    res.end();
+  })
+  .listen(process.env.PORT);</code></pre>
+
+      <h2>Deploy</h2>
+
+      <pre><code class="language-bash">$ eg deploy
+$ Deployed in 723ms</code></pre>
+
+      <h2>Preview</h2>
+
+      <img src="/assets/img/hello-node-docker.png" height="200px" />
+
+    </div>
   </div>
-</section>
+</body>
 
-<div class="content">
-
-  <section class="testimonial">
-    <div class="container flex">
-      <div class="testimonial-block">
-        <!-- <div class="square-image"><img src="https://source.unsplash.com/6anudmpILw4/600x400" alt="Jim James" class="editable"></div> -->
-        <blockquote>
-          <p class="editable">engram started as a place to simply capture ideas on the go. It has since evolved to
-            become my replacement for other SaaS based tools. Eventually it will all be easily self-hostable so you
-            use it however you like. This project is in it's infancy, please don't hesitate to <a href="mailto:engram@xyzdigital.com?subject=engram">email us</a> with feedback or questions!</p>
-          <p class="editable author">Adam Berg - Founder of engram</p>
-        </blockquote>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="container flex">
-      <div class="text editable">
-        <h2><a href="https://engram.xyzdigital.com">Planner</a></h2>
-        <ul>
-          <li>engram planner is your <strong>daily hub</strong></li>
-          <li><strong>Plan out your day</strong> and take notes throughout the day in the Notes tab</li>
-          <li>Create tasks that you <strong>intend to complete for the day</strong></li>
-          <li><strong>Plan ahead</strong> by adding notes, tasks, or events on future days</li>
-        </ul>
-      </div>
-      <div class="image" style="margin-right: 16px">
-        <img src="{{ site.baseurl }}/images/engram-planner.png" alt="engram paper"/>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="container flex">
-      <div class="text editable">
-        <h2><a href="https://notes.engramhq.xyz">Notes</a></h2>
-        <ul>
-          <li>engram notes is the <strong>quickest</strong> place to jot down a note</li>
-          <li>Use it as a place to dump all your <strong>unorganized thoughts</strong></li>
-          <li><strong>Stop worrying</strong> about where to put your information and simply <strong>write it down</strong></li>
-        </ul>
-      </div>
-      <div class="image">
-        <img src="{{ site.baseurl }}/images/engram-notes.jpg" alt="engram notes" />
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="container flex">
-      <div class="text editable">
-        <h2><a href="https://paper.engramhq.xyz">Paper</a></h2>
-        <ul>
-          <li>The digital equivalent of a <strong>pen and paper</strong></li>
-          <li><strong>Stop worrying</strong> about where to organize your hand-written notes</li>
-          <li>Most of the time just <strong>writing down the idea</strong> is all you need</li>
-          <li>engram paper gets out of the way so you can <strong>focus</strong> on fleshing out your ideas</li>
-        </ul>
-      </div>
-      <div class="image">
-        <img src="{{ site.baseurl }}/images/engram-paper.png" alt="engram paper" style="border: 1px solid black" />
-      </div>
-    </div>
-  </section>
-</div>
+</html>
