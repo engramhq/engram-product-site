@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Step-by-step instructions to deploy your first application to engram cloud">
   <title>Getting Started - engram</title>
   <link href="/assets/styles.css" rel="stylesheet" />
   <link href="/assets/prism.css" rel="stylesheet" />
@@ -17,16 +18,21 @@
     <h2>Install Node</h2>
     You can download and install Node.js from their <a href="https://nodejs.org/">official website</a>
     <h2>Install @engramhq/cli</h2>
-    <pre class="copy"><code class="language-bash flex-1">$ npm i -g @engramhq/cli</code></pre>
+    <pre class="copy"><code class="language-bash flex-1">npm i -g @engramhq/cli</code></pre>
+    <blockquote>You can now run: <pre class="copy"><code class="language-bash">eg --help</code></pre> to see all available commands and options</blockquote>
     <h2>Sign Up</h2>
-    <blockquote>If you already have an account you can use <pre class="copy"><code class="language-bash">$ eg login</code></pre></blockquote>
-    <pre class="copy"><code class="language-bash">$ eg signup</code></pre>
-    <h2>Deploy!</h2>
-    <blockquote>Update project to be whatever you would like your project to be named.  Your code will be deployed to <code class="language-bash">https://project-username.cloud.engramhq.xyz</code></blockquote>
-    <pre class="copy"><code class="language-bash">$ eg deploy -n project</code></pre>
+    <p>You will be prompted for a <b>username</b>, <b>email</b>, and <b>password</b>.  The username will be used as a prefix for your preview URLs.</p>
+    <pre class="copy"><code class="language-bash">eg signup</code></pre>
+    <p>Once complete, a session is automatically stored on your system so you can use engram without having to log in again.</p>
+    <h2>Create a New Project</h2>
+    <pre class="copy"><code class="language-markup">eg new html-demo</code></pre>
+    <p>This command creates the <b>html-demo</b> folder and copies a simple html template inside of it (more template projects are on the way)</p>
+    <h2>Deploy</h2>
+    <pre class="copy"><code class="language-bash">eg deploy html-demo</code></pre>
     <h2>Preview</h2>
-    Copy or click on the returned link and see your live website.
-    <pre><code class="language-bash">$ Deployed to https://project-username.cloud.engramhq.xyz in 208ms</code></pre>
+    <p>A browser should automatically open with your newly deployed project</p>
+    <pre><code class="language-bash">Deployed to https://preview-username.cloud.engramhq.xyz in 208ms</code></pre>
+    <blockquote>Only a single preview link can be active at a time on the free plan</blockquote>
   </div>
 </body>
 

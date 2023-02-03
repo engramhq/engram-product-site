@@ -9,6 +9,8 @@ for (const el of preElementsWithCopy) {
   const copyBtn = document.createElement("button");
   copyBtn.innerText = "Copy";
   copyBtn.style.position = "absolute";
+  copyBtn.style.marginTop = "4px";
+  copyBtn.style.top = "1em";
   copyBtn.style.right = "1em";
   el.appendChild(copyBtn);
 

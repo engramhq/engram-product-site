@@ -1,5 +1,6 @@
 body {
   margin-top: 8px;
+  font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
 }
 
 .container {
@@ -17,25 +18,4 @@ blockquote {
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
-}
-
-.flex {
-  display: flex;
-}
-
-.flex-1 {
-  flex: 1;
-}
-
-.flex-justify {
-  justify-content: space-between;
-}
-
-.relative {
-  position: relative;
-}
-
-.btn-copy {
-  position: absolute;
-  right: 1em;
 }
