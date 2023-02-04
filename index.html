@@ -12,73 +12,25 @@
 
 <body>
   <script src="assets/prism.js"></script>
+  <header>
+    <div class="container flex justify-between align-items-center">
+      <div class="flex align-items-center">
+        <img src="/assets/img/logo.svg" width="32" height="32"/>
+        <div class="company-name"><a href="/">engram</a></div>
+      </div>
+      <nav>
+        <a href="/docs/getting-started/">Getting Started</a>
+        <a href="/about.html">About</a>
+      </nav>
+    </div>
+  </header>
+  <div class="hero">
+    <div class="container">
+      <h1>Ideate. Build. Share</h1>
+      <h2>Deploy static or Docker based websites in under a second with support for server-side incremental builds</h2>
+    </div>
+  </div>
   <div class="container">
-    <a href="/docs/getting-started/">Getting Started</a>
-
-    <h1>Static Deployments</h1>
-
-    <div id="root"></div>
-
-    <div id="static">
-
-      <h2>Develop</h2>
-      <pre><code class="language-markup">&lt;!-- index.html -->
-&lt;html lang="en">
-  &lt;head>
-    &lt;meta charset="UTF-8">
-    &lt;title>Hello World&lt;/title>
-  &lt;/head>
-  &lt;body>
-    &lt;h1>Hello World&lt;/h1>
-  &lt;/body>
-&lt;/html>
-</code></pre>
-
-      <h2>Deploy</h2>
-
-      <pre><code class="language-bash">$ eg deploy
-$ Deployed in 124ms</code></pre>
-
-      <h2>Preview</h2>
-
-      <img src="/assets/img/hello-static.png" height="200px" />
-
-    </div>
-
-    <div id="docker">
-
-      <h1>Docker Deployments</h1>
-
-      <pre><code class="language-docker"># Dockerfile
-FROM node:alpine
-
-WORKDIR /app
-
-COPY . .
-
-CMD node index.mjs</code></pre>
-
-      <pre><code class="language-js">// index.mjs
-import http from "http";
-
-http
-  .createServer(function (req, res) {
-    res.writeHead(200, { "Content-Type": "text/plain" });
-    res.write("Hello World!");
-    res.end();
-  })
-  .listen(process.env.PORT);</code></pre>
-
-      <h2>Deploy</h2>
-
-      <pre><code class="language-bash">$ eg deploy
-$ Deployed in 723ms</code></pre>
-
-      <h2>Preview</h2>
-
-      <img src="/assets/img/hello-node-docker.png" height="200px" />
-
-    </div>
   </div>
 </body>
 

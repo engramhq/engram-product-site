@@ -1,6 +1,31 @@
 body {
-  margin-top: 8px;
+  margin: 0;
   font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+}
+
+header {
+  padding: 20px;
+  color: #fff;
+  background: #3f51b5;
+  background: linear-gradient(to bottom, #3f51b5 0%, #3f50af 100%) no-repeat #3f51b5;
+}
+
+.company-name a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  /* transition: 0.2s ease-in-out; */
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav a:hover {
+  color: #fff;
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  text-decoration: none;
 }
 
 .container {
@@ -18,4 +43,23 @@ blockquote {
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
+}
+
+.hero {
+  padding-top: 50px;
+  color: #fff;
+  background: linear-gradient(to bottom, #3f50af 0%, #424242 100%) no-repeat #a05fb7;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
 }
