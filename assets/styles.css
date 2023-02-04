@@ -4,6 +4,7 @@ body {
   background: #3f50af;
   background: linear-gradient(to bottom, #3f50af 0%, #424242 100%) no-repeat #a05fb7;
   color: #fff;
+  margin-bottom: 8px;
 }
 
 a {
