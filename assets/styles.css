@@ -1,13 +1,18 @@
 body {
   margin: 0;
   font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+  background: #3f50af;
+  background: linear-gradient(to bottom, #3f50af 0%, #424242 100%) no-repeat #a05fb7;
+  color: #fff;
+}
+
+a {
+  color: #fff;
 }
 
 header {
   padding: 20px;
   color: #fff;
-  background: #3f51b5;
-  background: linear-gradient(to bottom, #3f51b5 0%, #3f50af 100%) no-repeat #3f51b5;
 }
 
 .company-name a {
@@ -17,7 +22,6 @@ header {
 
 nav a {
   color: rgba(255,255,255,0.8);
-  /* transition: 0.2s ease-in-out; */
   text-decoration: none;
   padding: 10px;
 }
@@ -48,8 +52,16 @@ blockquote {
 .hero {
   padding-top: 50px;
   color: #fff;
-  background: linear-gradient(to bottom, #3f50af 0%, #424242 100%) no-repeat #a05fb7;
   text-align: center;
+}
+
+.hero h1 {
+  margin: 0;
+}
+
+video {
+  max-width: 800px;
+  width: 100%;
 }
 
 .flex {
@@ -62,4 +74,9 @@ blockquote {
 
 .align-items-center {
   align-items: center;
+}
+
+.py-50 {
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
